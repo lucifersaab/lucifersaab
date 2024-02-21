@@ -28,11 +28,11 @@ Hi,I'm Hashim Farooq🙌, a Web Developer and Data Science Enthusiast. Apart fro
 
 - 🔭 I’m currently Intern at Monke Labs.
 - 🌱 I’m currently learning Node JS.
+- ✨ I’m a Teacher.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 - 📝[Portfolio](https://lucifersaab.github.io/portfolio2.0/)
-- ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
 
 
 
