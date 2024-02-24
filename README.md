@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hello World 👋 It's [Hashim!](https://lucifersaab.github.io/portfolio2.0/)
 
 <br/>
