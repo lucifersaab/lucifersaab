@@ -38,5 +38,5 @@ Hi,I'm Hashim Farooq🙌, a Web Developer and Data Science Enthusiast. Apart fro
 <code><img height="40" src="https://github.com/lucifersaab/lucifersaab/blob/images/icons8-java-48.png" alt="Java Logo"></code>
 <code><img height="40" src="https://github.com/lucifersaab/lucifersaab/blob/images/icons8-react-30.png" alt="React Logo"></code>
 <code><img height="40" src="https://github.com/lucifersaab/lucifersaab/blob/images/icons8-typescript-50.png" alt="React Logo"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
