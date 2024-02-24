@@ -35,7 +35,7 @@ Hi,I'm Hashim Farooq🙌, a Web Developer and Data Science Enthusiast. Apart fro
 **Languages and Tools:**
 
 
-<code><img height="20" src="https://github.com/username/repository/blob/master/images/logo.png" alt="GitHub Logo"></code>
+<code><img height="20" src="https://github.com/username/repository/blob/master/images/icons8-react-30" alt="GitHub Logo"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
