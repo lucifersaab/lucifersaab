@@ -21,8 +21,8 @@ Hi,I'm Hashim Farooq🙌, a Web Developer and Data Science Enthusiast. Apart fro
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Intern at Monke Labs.
-- 🌱 I’m currently learning Node JS.
+- 🔭 I’m currently a front-end developer at Monke Labs.
+- 🌱 Learning Node JS.
 - ✨ I’m a Teacher.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything, would love to answer them.✌
