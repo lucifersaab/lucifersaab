@@ -23,14 +23,6 @@ Hi, I'm Hashim Farooq 🙌, a Web Developer and Data Science Enthusiast. Apart f
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git Logo"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal Logo"></code>
 
-**GitHub Stats and Top Languages:**
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=lucifersaab&show_icons=true&theme=radical" alt="Hashim's GitHub Stats"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifersaab&layout=compact&theme=radical" alt="Top Languages"/></td>
-  </tr>
-</table>
 
 **Fun Facts About Me:**
 
