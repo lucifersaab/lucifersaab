@@ -31,7 +31,7 @@ Hi, I'm Hashim Farooq 🙌, a Web Developer and Data Science Enthusiast. Apart f
 
 **Top Languages:**
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifersaab&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
