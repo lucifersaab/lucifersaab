@@ -1,12 +1,4 @@
 ### Hello World 👋 It's [Hashim!](https://lucifersaab.github.io/portfolio2.0/)
-
-<a href="https://www.linkedin.com/in/ahmad-hashim-farooq-9a955120a/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/hashimf77/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
 <br/>
 
 Hi, I'm Hashim Farooq 🙌, a Web Developer and Data Science Enthusiast. Apart from that, I love getting involved in Competitive Programming and Problem Solving. ❤✌
@@ -43,20 +35,12 @@ Hi, I'm Hashim Farooq 🙌, a Web Developer and Data Science Enthusiast. Apart f
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifersaab&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-**Recent GitHub Activity:**
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/lucifersaab/project/pull/1) in [lucifersaab/project](https://github.com/lucifersaab/project)
-2. 🎉 Merged PR [#2](https://github.com/lucifersaab/another-project/pull/2) in [lucifersaab/another-project](https://github.com/lucifersaab/another-project)
-3. 💬 Commented on [#3](https://github.com/lucifersaab/one-more-project/issues/3) in [lucifersaab/one-more-project](https://github.com/lucifersaab/one-more-project)
-<!--END_SECTION:activity-->
 
 **Fun Facts About Me:**
 
 - 🎮 I love playing video games.
-- 📚 Avid reader of tech blogs and sci-fi novels.
+- 📚 I write crypto articles/threads.
 - 🌍 I enjoy traveling and exploring new places.
-- 🎨 Passionate about painting and sketching.
 
 **Let's Connect:**
 
