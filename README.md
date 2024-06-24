@@ -25,7 +25,7 @@ Hi, I'm Hashim Farooq 🙌, a Web Developer and Data Science Enthusiast. Apart f
 
 **GitHub Stats:**
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=lucifersaab&show_icons=true&theme=radical" alt="Hashim's GitHub Stats"/>
 </p>
 
