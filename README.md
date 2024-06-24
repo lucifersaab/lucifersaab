@@ -35,7 +35,6 @@ Hi, I'm Hashim Farooq 🙌, a Web Developer and Data Science Enthusiast. Apart f
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifersaab&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-
 **Fun Facts About Me:**
 
 - 🎮 I love playing video games.
@@ -44,13 +43,14 @@ Hi, I'm Hashim Farooq 🙌, a Web Developer and Data Science Enthusiast. Apart f
 
 **Let's Connect:**
 
-<a href="https://www.linkedin.com/in/ahmad-hashim-farooq-9a955120a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/hashimf77/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:ahmad.hashim.farooq@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmad-hashim-farooq-9a955120a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/hashimf77/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:ahmad.hashim.farooq@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
