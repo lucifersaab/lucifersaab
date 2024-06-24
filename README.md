@@ -23,17 +23,14 @@ Hi, I'm Hashim Farooq 🙌, a Web Developer and Data Science Enthusiast. Apart f
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git Logo"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal Logo"></code>
 
-**GitHub Stats:**
+**GitHub Stats and Top Languages:**
 
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=lucifersaab&show_icons=true&theme=radical" alt="Hashim's GitHub Stats"/>
-</p>
-
-**Top Languages:**
-
-<p >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifersaab&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=lucifersaab&show_icons=true&theme=radical" alt="Hashim's GitHub Stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifersaab&layout=compact&theme=radical" alt="Top Languages"/></td>
+  </tr>
+</table>
 
 **Fun Facts About Me:**
 
@@ -50,7 +47,7 @@ Hi, I'm Hashim Farooq 🙌, a Web Developer and Data Science Enthusiast. Apart f
   <a href="https://www.instagram.com/hashimf77/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:hashimfarooq777@gmail.com">
+  <a href="mailto:ahmad.hashim.farooq@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
